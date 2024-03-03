@@ -1,0 +1,26 @@
+{
+"name": "1992b-dkvn",
+"version": "1.0.0",
+"description": "The Intelligent Energy Management System optimizes energy usage in buildings and facilities through smart controls, energy monitoring, and predictive analytics, reducing costs and environmental impact.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/medytemperan/Intelligent-Energy-Management-System.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "medytemperan",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}

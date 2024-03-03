@@ -1,0 +1,1 @@
+The Intelligent Energy Management System optimizes energy usage in buildings and facilities through smart controls, energy monitoring, and predictive analytics, reducing costs and environmental impact.
